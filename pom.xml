@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.mattdepoorter</groupId>
-	<artifactId>tree-of-life</artifactId>
+    <artifactId>game-of-life</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>tree-of-life</name>
-	<description>Demo project for Spring Boot</description>
+    <name>game-of-life</name>
+    <description>Project for Global Code Retreat 2018</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
